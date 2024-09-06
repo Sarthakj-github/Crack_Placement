@@ -10,8 +10,6 @@ class Solution {
         while (!queue.isEmpty()) {
             int[] curr = queue.poll();
             int pos = curr[0], moves = curr[1];
-            System.out.println(pos);
-            System.out.println(moves);
             
             if (pos == dest) return moves;
 
