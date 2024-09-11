@@ -11,7 +11,8 @@ Key takeaways: 💻 Transitioned from Python to Java
 🔍 Moved from brute force to optimized solutions
 🌳 Covered topics like DP, Graphs, Trees, Heaps, LinkedLists, Tries, and more!
 
-Consistency is key! Check out the repository where I saved all my solutions: GitHub Repo
+Consistency is key! Check out the repository where I saved all my solutions: 
+https://github.com/Sarthakj-github/Crack_Placement
 Feeling ready for the upcoming placement season! 💼
 
 #DSA #PlacementPrep #Consistency #Java #CodingChallenge #GitHub
